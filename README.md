@@ -1,1 +1,1 @@
-# uzbekibot.github.io
+# place.github.io
